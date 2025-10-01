@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "7cdcc6d1-0ad1-d9ea-4d7d-876cf17f2f9b",
+  "instructors": {
+    "content": [
+      "2610b242-4fee-0a77-c54a-fefd3c74da45"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9358c983-098c-4fa7-5bc1-b9480858f302",
+    "website": "18-318-topics-in-algebraic-combinatorics-spring-2006"
+  },
+  "course_title": "Topics in Algebraic Combinatorics",
+  "hide_download": true,
+  "course_description": "The course consists of a sampling of topics from algebraic combinatorics. The topics include the matrix-tree theorem and other applications of linear algebra, applications of commutative and exterior algebra to counting faces of simplicial complexes, and applications of algebra to tilings.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.318",
+  "course_image_thumbnail": {
+    "content": "537788f5-cbfc-a5e7-9ba8-97e56d7fb8ce",
+    "website": "18-318-topics-in-algebraic-combinatorics-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "a0e26c92-2d7c-438a-924a-85d80631021c",
+  "site_short_id": "18.318-spring-2006",
+  "site_url_path": "courses/18-318-topics-in-algebraic-combinatorics-spring-2006",
+  "title": "Course Metadata"
+}
