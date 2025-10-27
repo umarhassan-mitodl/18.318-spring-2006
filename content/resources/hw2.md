@@ -4,8 +4,6 @@ description: This resource includes 16 problem statements based on Hadamard matr
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/89f0cf21f8a15f443ed4d7ffb94703bb_hw2.pdf
 file_size: 67145
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

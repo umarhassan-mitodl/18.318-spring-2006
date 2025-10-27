@@ -5,8 +5,6 @@ description: This resource includes information on Young's poset, Young diagram,
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/351d525546a333048bca0b2f436ea256_young.pdf
 file_size: 200398
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

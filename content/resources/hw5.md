@@ -4,8 +4,6 @@ description: This resource includes 10 problem statements on r-differential latt
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/46726cc83fd077ef17ffcf60f46b695e_hw5.pdf
 file_size: 77244
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

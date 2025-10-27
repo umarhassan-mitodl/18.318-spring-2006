@@ -30,7 +30,6 @@
     "website": "18-318-topics-in-algebraic-combinatorics-spring-2006"
   },
   "course_title": "Topics in Algebraic Combinatorics",
-  "hide_download": true,
   "course_description": "The course consists of a sampling of topics from algebraic combinatorics. The topics include the matrix-tree theorem and other applications of linear algebra, applications of commutative and exterior algebra to counting faces of simplicial complexes, and applications of algebra to tilings.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "537788f5-cbfc-a5e7-9ba8-97e56d7fb8ce",
     "website": "18-318-topics-in-algebraic-combinatorics-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

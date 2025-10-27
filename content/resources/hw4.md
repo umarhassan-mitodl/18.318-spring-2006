@@ -4,8 +4,6 @@ description: This resource includes 10 problem statements on distributive lattic
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/5c931a3065932c8ec04d5a644fb6d920_hw4.pdf
 file_size: 113144
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

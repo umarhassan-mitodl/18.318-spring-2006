@@ -4,8 +4,6 @@ description: This resource includes 8 problem statements on complete tripartite 
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/bd8a980991c6eff32384049f7361e231_hw1.pdf
 file_size: 58109
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

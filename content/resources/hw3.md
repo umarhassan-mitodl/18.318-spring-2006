@@ -4,8 +4,6 @@ description: This resource includes seven problem statements on simplicial compl
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/17d506d0a9ff7588108a8f7456c22ad4_hw3.pdf
 file_size: 54733
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
