@@ -24,13 +24,13 @@ My book *Combinatorics and Commutative Algebra* has many possible topics, as doe
 
 ## Topological Combinatorics (For those Who Know Some Algebraic Topology)
 
-Graham, R. L., M. Grötschel, and L. Lovász, eds. [*Handbook of Combinatorics*](https://www.amazon.com/Handbook-Combinatorics-Vol-Ronald-Graham/dp/0262071711). Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
+Graham, R. L., M. Grötschel, and L. Lovász, eds. {{% resource_link "3bbdf02e-f768-49b1-a3fc-d2c1d981f371" "*Handbook of Combinatorics*" %}}. Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
 
 The article "Topological methods" by Anders Björner in *Handbook of Combinatorics*, vol. 2, pp. 1819-1872, is a good place to get started.
 
 ## Linear Algebra and Combinatorics
 
-Graham, R. L., M. Grötschel, and L. Lovász, eds. [*Handbook of Combinatorics*](https://www.amazon.com/Handbook-Combinatorics-Vol-Ronald-Graham/dp/0262071711). Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
+Graham, R. L., M. Grötschel, and L. Lovász, eds. {{% resource_link "3bbdf02e-f768-49b1-a3fc-d2c1d981f371" "*Handbook of Combinatorics*" %}}. Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
 
 See the articles "Tools from linear algebra" by C. D. Godsil, pp. 1707-1748, and "Tools from higher algebra" by Noga Alon, pp. 1749-1783, in *Handbook of Combinatorics*, vol. 2.
 
@@ -50,6 +50,6 @@ See *Algebra and Tiling* by S. K. Stein and S. Szabó. I hope to cover some of t
 
 ## Combinatorics and Symmetry
 
-Graham, R. L., M. Grötschel, and L. Lovász, eds. [*Handbook of Combinatorics*](https://www.amazon.com/Handbook-Combinatorics-Vol-Ronald-Graham/dp/0262071703). Vol. 1. Cambridge, MA: MIT Press, 1995. ISBN: 0262071703.
+Graham, R. L., M. Grötschel, and L. Lovász, eds. {{% resource_link "d4075829-cd3e-45d2-9b8e-aa8d9f2cdf4d" "*Handbook of Combinatorics*" %}}. Vol. 1. Cambridge, MA: MIT Press, 1995. ISBN: 0262071703.
 
 This includes such topics as permutation groups, association schemes, block designs, and codes. See Chapters 12-16 in *Handbook of Combinatorics*, vol. 1.
